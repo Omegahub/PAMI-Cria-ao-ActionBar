@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">etec-ActionBar</string>
+    <string name="proxima">Proxima</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair</string>
+</resources>
